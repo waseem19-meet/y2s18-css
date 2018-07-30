@@ -6,5 +6,31 @@ h2{
 	color: blue
 }
 p{
-	
+
+}
+.title{
+	height: 60px;
+	width: 100%
+}
+
+.content{
+	position: absolute;
+	top: 0px;
+	left: 220px;
+}
+
+.sidebar{
+	background: linear-gradient(red, yellow, green);
+	 box-shadow: 5px 10px #888888;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	height: 100%;
+
+}
+
+.container{
+	position: relative;
+	height: 1000px;
 }
